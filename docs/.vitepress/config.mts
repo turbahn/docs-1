@@ -277,6 +277,9 @@ export default defineConfig({
           items: [{ text: 'Introduction', link: '/auth-kit/introduction' },{
             text: 'Examples',
             link: '/auth-kit/examples',
+          },{
+            text: 'Service Providers',
+            link: '/auth-kit/service-providers',
           },],
         },
         {
